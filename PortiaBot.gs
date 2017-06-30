@@ -39,7 +39,7 @@ Email: An email is sent to the email specified by email_address filling in the e
 function main_() 
 {
   //THE EMAIL ADDRESS THAT THE SCRIPT WILL SEND TO
-  const email_address = "ltsppmac@gmail.com";
+  const email_address = "YOUR_EMAIL_ADDRESS";
  
   //Initilize the current spreadsheet
   var ss = SpreadsheetApp.getActive();
