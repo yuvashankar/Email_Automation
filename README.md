@@ -1,3 +1,3 @@
-# Email_Automation
+# PortiaBot: Volunteer Selection Automation
+Portia Kalun, Irena Rebalka, Vinay Yuvashankar
 
-Click on the Button that says "Download" to download the file.
